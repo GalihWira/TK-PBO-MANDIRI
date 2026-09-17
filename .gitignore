@@ -1,0 +1,8 @@
+# Konfigurasi IntelliJ IDEA
+.idea/
+*.iml
+
+# Hasil kompilasi Java
+out/
+build/
+*.class
