@@ -21,7 +21,6 @@ public class PerbedaanTipeData {
         System.out.println("--- Data Referensi ---");
         System.out.println("Nama (String): " + nama.toLowerCase());
         System.out.println("Nilai (Array): " + nilaiUjian[0]);
-        System.out.println("Scanner Object: " + input);
         input.close();
     }
 }
